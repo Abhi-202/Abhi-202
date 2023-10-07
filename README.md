@@ -12,7 +12,7 @@
 ## Connect with me:
 [![Instagram](https://img.shields.io/badge/Abhi-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/abhi.__.g/?igshid=YmMyMTA2M2Y=) 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhinandan-gupta-790427200/)
-<p align="left"> <a href="https://twitter.com/abhi_1230_?t=-UJ8m0TlNVOCAzkMZuEQfA&s=08" target="blank"><img src="https://img.shields.io/twitter/follow/Abhi?logo=twitter&style=for-the-badge" alt="Abhi" /></a> </p>
+
 
 ## Languages and Tools ⚙️:
 
